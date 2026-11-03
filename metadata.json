@@ -1,0 +1,6 @@
+{
+  "name": "SRRP Toolkit - Insight Collective Framework",
+  "description": "Hệ thống đối thoại hỗ trợ công nghệ nâng cao năng lực kiến tạo đồng thuận nhóm trước thách thức phân mảnh thông tin dành cho học sinh THPT (Dự án KHKT 2026).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
